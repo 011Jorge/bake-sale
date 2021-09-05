@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(-40deg,#5CBFE0, #66D4FA,#F3FCF2);
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    color: #fff;
+    background-image: linear-gradient(to left, #EF67A7, #CF5BAD, #C056B0, #B552B1, #9847B7);
+    font-family: 'Courgette', cursive;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+}
+
+#icon-cake {
+    padding-left: 50px;
+    width: 70px;
+    height: 70px;
+}
+
+#div-img-cake {
+    text-align: center;
+    padding-top: 100px;
+}
+
+#img-cake01 {
+    width: 400px;
+    height: 350px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#img-cake02 {
+    width: 400px;
+    height: 350px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#img-cake03 {
+    width: 400px;
+    height: 350px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h3 {
+    margin-top: 100px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: linear-gradient(to right, #EF67A7, #CF5BAD, #C056B0, #B552B1, #9847B7);
+    border-radius: 9em;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+
+main {
+    justify-content: center;
+    display: flex;
+    padding-top: 15px;
+}
+
+section {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    font-size: 20px;
+    background-color: #80808056;
+    border: 1px solid black;
+}
+
+h4 {
+    margin-top: 11%;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: linear-gradient(to right, #EF67A7, #CF5BAD, #C056B0, #B552B1, #9847B7);
+    color: white;
+    text-align: center;
+    border-radius: 9em;
+}
+
+#div-how-to-buy {
+    display: flex;
+}
+
+.how-to-buy {
+    margin-top: 80px;
+    margin-bottom: 10px;
+    padding-left: 15%;
+    padding-right: 18%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+#img-card {
+    width: 450px;
+    height: 450px;
+}
+
+.social-networks {
+    text-align: center;    
+    color: white;
+    background-image: linear-gradient(to right, #EF67A7, #CF5BAD, #C056B0, #B552B1, #9847B7);
+    border-radius: 9em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+}
+
+nav {
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    padding: 20px   ;
+}
+
+.wathsapp {
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0B8F21;
+}
+
+.instagram {
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #C0348E;
+}
+
+.facebook {
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: mediumblue;
+}
+
+.motoboy {
+    float: right;
+    width: 17em;
+}
+
+.final {
+    color: rgb(144, 153, 153);
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding-left: 2em;
+}
+
+.address {
+    color: rgb(144, 153, 153);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: left;
+    font-style: italic;
+    margin-left: 2em;
+}
